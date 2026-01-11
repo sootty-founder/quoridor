@@ -1,0 +1,5 @@
+{
+  "name": "Quoridor Online",
+  "description": "A high-fidelity 1v1 board game prototype of Quoridor featuring real-time synchronization, pathfinding validation, and a sleek room-based multiplayer architecture.",
+  "requestFramePermissions": []
+}
